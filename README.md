@@ -1,5 +1,4 @@
 # Dialogue-Summarization-with-FLAN-T5-and-PEFT
-# Dialogue Summarization with FLAN-T5 and PEFT
 
 This repository contains a script for training and evaluating a dialogue summarization model using the FLAN-T5 architecture with Parameter Efficient Fine-Tuning (PEFT). The script utilizes the `samsum` dataset and demonstrates both zero-shot and fine-tuned summarization capabilities.
 
